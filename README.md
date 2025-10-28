@@ -1,4 +1,5 @@
-# SHDVC
+# Shahad_Alkhoori_CV
+
 Welcome to my CV repository!  
 This repository contains my updated professional CV in PDF format. 
 
